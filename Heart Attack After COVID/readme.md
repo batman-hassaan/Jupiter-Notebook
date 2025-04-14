@@ -76,7 +76,7 @@ heart_attack_analysis/
 
 ## 👨‍💻 Author
 **Hassaan**  
-Contact: []
+Contact: [www.linkedin.com/in/hassaanshahid217]
 ```
 
 This version:
@@ -87,4 +87,3 @@ This version:
 5. Uses proper spacing between sections
 6. Formats the file structure as a code block
 
-You should replace `[your email/github/portfolio link]` with your actual contact information.
